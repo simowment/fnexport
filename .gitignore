@@ -1,0 +1,8 @@
+bin/
+obj/
+*.user
+*.suo
+emotes_cache.json
+skins_cache.json
+aes_keys.json
+decoders/*.zip
